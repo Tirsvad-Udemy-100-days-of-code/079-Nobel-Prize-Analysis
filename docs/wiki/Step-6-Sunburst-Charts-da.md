@@ -4,11 +4,11 @@
 
 **Spørgsmål:** Hvilke forskningsorganisationer og byer havde flest modtagere da opdagelsen blev gjort?
 
-![Trin 6: Sunburst-diagrammer over forskningssteder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
+![Trin 6: Sunburst-diagrammer over forskningssteder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
 
 *Lektion 588*
 
-![chart-step-6-sunburst.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-6-sunburst.png)
+![chart-step-6-sunburst.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-6-sunburst.png)
 
 
 ## Hvad koden gør

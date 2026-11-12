@@ -4,11 +4,11 @@
 
 **Soalan:** Organisasi penyelidikan dan bandar mana mempunyai paling ramai penerima semasa penemuan dibuat?
 
-![Langkah 6: Carta sunburst lokasi penyelidikan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
+![Langkah 6: Carta sunburst lokasi penyelidikan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
 
 *Kuliah 588*
 
-![chart-step-6-sunburst.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-6-sunburst.png)
+![chart-step-6-sunburst.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-6-sunburst.png)
 
 
 ## Apa yang kod lakukan

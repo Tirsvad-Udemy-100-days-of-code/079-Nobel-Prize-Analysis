@@ -4,13 +4,13 @@
 
 **Spørgsmål:** Hvilke kategorier uddeler flest priser, og hvor stor en andel af modtagerne er kvinder?
 
-![Trin 3: Søjle- og donutdiagrammer med plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
+![Trin 3: Søjle- og donutdiagrammer med plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
 
 *Lektion 585*
 
-![chart-step-3-donut.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-3-donut.png)
+![chart-step-3-donut.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-3-donut.png)
 
-![chart-step-3-categories.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-3-categories.png)
+![chart-step-3-categories.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-3-categories.png)
 
 
 ## Hvad koden gør

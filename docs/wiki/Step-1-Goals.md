@@ -4,7 +4,7 @@
 
 **Question:** What do we analyse today, and what will we learn?
 
-![Step 1: The goals of the day](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
+![Step 1: The goals of the day](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
 
 *Lecture 583*
 

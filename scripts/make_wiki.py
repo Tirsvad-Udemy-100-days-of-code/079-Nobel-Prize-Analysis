@@ -4,7 +4,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "wiki"
 OUT.mkdir(parents=True, exist_ok=True)
-IMG = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/"
+IMG = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/"
 LANGS = [("en", "English", ""), ("da", "Dansk", "-da"), ("ms", "Bahasa Malaysia", "-ms")]
 LBL = {
     "en": dict(q="Question", code="What the code does", gain="What you gained", prev="Previous", next="Next", lec="Lecture"),

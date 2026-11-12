@@ -4,13 +4,13 @@
 
 **Soalan:** Kategori mana memberi paling banyak hadiah, dan berapa peratus penerima adalah wanita?
 
-![Langkah 3: Carta bar dan donat dengan plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
+![Langkah 3: Carta bar dan donat dengan plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
 
 *Kuliah 585*
 
-![chart-step-3-donut.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-3-donut.png)
+![chart-step-3-donut.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-3-donut.png)
 
-![chart-step-3-categories.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-3-categories.png)
+![chart-step-3-categories.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-3-categories.png)
 
 
 ## Apa yang kod lakukan

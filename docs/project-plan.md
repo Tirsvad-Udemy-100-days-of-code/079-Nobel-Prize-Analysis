@@ -75,7 +75,7 @@ A No-Go on a gateway holds the later gateways; S01 decides whether the end date 
 ## Open Issues
 
 - No domain dictionary (`DICT`) is written; the PO terms are those of the course and are used consistently.
-- The repository URL named in the request (`Tirsvad-Udemy-100_days_of_code`) differs from the configured remote (`Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis`); the plan uses the configured remote.
+- The repository URL named in the request (`Tirsvad-Udemy-100_days_of_code`) differs from the configured remote (`Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis`); the plan uses the configured remote.
 
 ---
 
@@ -84,4 +84,4 @@ A No-Go on a gateway holds the later gateways; S01 decides whether the end date 
 [MIL-001]: ./milestones/mil-001-foundation.md
 [MIL-002]: ./milestones/mil-002-analysis-library.md
 [MIL-003]: ./milestones/mil-003-notebook-and-docs.md
-[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
+[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b

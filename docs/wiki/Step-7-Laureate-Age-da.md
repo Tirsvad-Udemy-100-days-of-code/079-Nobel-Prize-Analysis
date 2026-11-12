@@ -4,11 +4,11 @@
 
 **Spørgsmål:** Hvor gamle er modtagerne, når de vinder prisen, varierer det efter kategori, og hvordan har det ændret sig over tid?
 
-![Trin 7: Modtagernes alder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
+![Trin 7: Modtagernes alder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
 
 *Lektion 589*
 
-![chart-step-7-age-histogram.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-7-age-histogram.png)
+![chart-step-7-age-histogram.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-7-age-histogram.png)
 
 
 ## Hvad koden gør

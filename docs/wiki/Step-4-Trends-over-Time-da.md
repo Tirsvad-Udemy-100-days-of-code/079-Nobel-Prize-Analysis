@@ -4,11 +4,11 @@
 
 **Spørgsmål:** Uddeles der flere priser nu end da prisen blev oprettet, og deles priserne mere end før?
 
-![Trin 4: Tendenser over tid med Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+![Trin 4: Tendenser over tid med Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
 
 *Lektion 586*
 
-![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
+![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
 
 
 ## Hvad koden gør

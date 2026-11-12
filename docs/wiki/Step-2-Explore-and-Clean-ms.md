@@ -4,7 +4,7 @@
 
 **Soalan:** Apakah bentuk data, adakah ada pendua atau nilai NaN, dan bagaimana menjadikan lajur boleh digunakan?
 
-![Langkah 2: Teroka dan bersihkan set data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
+![Langkah 2: Teroka dan bersihkan set data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
 
 *Kuliah 584*
 
