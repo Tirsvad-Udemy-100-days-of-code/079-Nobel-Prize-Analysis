@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
 
 ---
 
@@ -59,3 +59,4 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [RC-004]: ./reviews/rc-004-mil-001-foundation.md
 [RC-005]: ./reviews/rc-005-mil-002-analysis-library.md
 [RC-006]: ./reviews/rc-006-mil-003-notebook-and-docs.md
+[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
