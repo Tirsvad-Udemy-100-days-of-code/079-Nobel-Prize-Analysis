@@ -27,6 +27,7 @@ Tracks backward and forward links between artifact instances so that traceabilit
 | [MIL-001] | MIL | en | it | [PP-001] | [MIL-002] | [RC-004] |
 | [MIL-002] | MIL | en | it | [MIL-001] | [MIL-003] | [RC-005] |
 | [PY-001] | PY | - | - | [MIL-002] | - | [RC-007] |
+| [WIKI-001] | WIKI | en, da, ms | it | [MIL-003] | - | [RC-008] |
 | [MIL-003] | MIL | en | it | [MIL-002] | - | [RC-006] |
 
 ## Concern Coverage
@@ -62,4 +63,6 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [RC-006]: ./reviews/rc-006-mil-003-notebook-and-docs.md
 [RC-007]: ./reviews/rc-007-python-code-mil-002.md
 [PY-001]: ../../src/nobel_analysis
+[RC-008]: ./reviews/rc-008-wiki.md
+[WIKI-001]: ../wiki/Home.md
 [23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
