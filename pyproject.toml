@@ -16,6 +16,7 @@ dependencies = [
     "plotly>=5.24",
     "matplotlib>=3.9",
     "seaborn>=0.13",
+    "statsmodels>=0.14",
 ]
 
 [project.optional-dependencies]
@@ -41,6 +42,7 @@ pythonpath = ["src"]
 [tool.ruff]
 line-length = 88
 src = ["src", "tests"]
+extend-exclude = ["scripts"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B"]
@@ -51,5 +53,5 @@ files = ["src", "tests"]
 mypy_path = "src"
 
 [[tool.mypy.overrides]]
-module = ["plotly.*", "seaborn.*"]
+module = ["plotly.*", "seaborn.*", "statsmodels.*"]
 ignore_missing_imports = true
