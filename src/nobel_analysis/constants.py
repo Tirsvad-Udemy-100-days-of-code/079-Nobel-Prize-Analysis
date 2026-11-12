@@ -57,3 +57,44 @@ HISTOGRAM_BINS: int = 30
 ## Names of the Matplotlib colours the lecture asks for.
 COLOR_POINTS: str = "dodgerblue"
 COLOR_AVERAGE: str = "crimson"
+
+## Hole size of the donut chart (fraction of the radius).
+DONUT_HOLE: float = 0.4
+
+## Range in years of the x axis of the time charts.
+YEAR_AXIS_START: int = 1900
+YEAR_AXIS_END: int = 2020
+
+## Figure size in inches, facet size and marker style of the charts.
+FIGURE_SIZE: tuple[float, float] = (16.0, 8.0)
+FACET_HEIGHT: float = 3.0
+FACET_ASPECT: float = 3.0
+POINT_SIZE: int = 50
+LINE_WIDTH: float = 3.0
+POINT_ALPHA: float = 0.7
+
+## Plotly sunburst size in pixels.
+SUNBURST_SIZE: int = 800
+
+## Chart titles.
+TITLE_SEX: str = "Percentage of Male vs. Female Winners"
+TITLE_CATEGORY: str = "Number of Prizes Awarded per Category"
+TITLE_CATEGORY_SEX: str = "Number of Prizes Awarded per Category split by Sex"
+TITLE_COUNTRIES: str = "Top 20 Countries by Number of Prizes"
+TITLE_CHOROPLETH: str = "Number of Prizes by Country"
+TITLE_COUNTRY_CATEGORY: str = "Top 20 Countries by Number of Prizes and Category"
+TITLE_ORGANISATIONS: str = "Top 20 Research Institutions by Number of Prizes"
+TITLE_ORG_CITIES: str = "Which Cities Make the Most Discoveries?"
+TITLE_BIRTH_CITIES: str = "Where were the Nobel Laureates Born?"
+TITLE_SUNBURST: str = "Where do Discoveries Take Place?"
+TITLE_PRIZES_PER_YEAR: str = "Number of Nobel Prizes Awarded per Year"
+TITLE_SHARE_PER_YEAR: str = "Number of Prizes and Average Prize Share per Year"
+TITLE_AGE_HISTOGRAM: str = "Distribution of Winning Age"
+TITLE_AGE_BY_CATEGORY: str = "Winning Age by Category"
+TITLE_AGE_OVER_TIME: str = "Winning Age over Time"
+
+## Axis labels.
+LABEL_PRIZES: str = "Number of Prizes"
+LABEL_SHARE: str = "Average Prize Share (%)"
+LABEL_YEAR: str = "Year"
+LABEL_AGE: str = "Age at the Time of the Award"
