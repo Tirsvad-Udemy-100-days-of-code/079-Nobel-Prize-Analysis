@@ -42,7 +42,7 @@ pythonpath = ["src"]
 [tool.ruff]
 line-length = 88
 src = ["src", "tests"]
-extend-exclude = ["scripts"]
+extend-exclude = ["scripts", "*.ipynb"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B"]
