@@ -24,11 +24,11 @@ The project answers the questions of the Day 79 assignment: how the data looks a
 | `notebooks/` | The Jupyter notebook that follows the lecture step by step |
 | `data/` | `nobel_prize_data.csv` from the lecture (962 prizes, 1901 to 2020) |
 | `docs/` | Project documents, screenshots (`docs/images/`) and the wiki sources (`docs/wiki/`: English, Danish, Bahasa Malaysia) |
-| `scripts/` | `scan.sh` (opengrep), `make_wiki.py` (generates the wiki pages) |
+| `scripts/` | `scan.sh` (opengrep), `make_wiki.py` (wiki pages), `make_notebook.py` (notebook), `make_screenshots.py` (chart images) |
 
 ### 🖼️ Lecture steps
 
-One screenshot per lecture step (Udemy lectures 583 to 590). The [wiki][wiki] (English, Dansk, Bahasa Malaysia) explains what each step teaches.
+One screenshot per lecture step (Udemy lectures 583 to 590), and the charts the code draws for that step (regenerate them with `python scripts/make_screenshots.py`). The [wiki][wiki] (English, Dansk, Bahasa Malaysia) explains what each step teaches.
 
 **Step 1: The goals of the day**
 
@@ -42,21 +42,33 @@ One screenshot per lecture step (Udemy lectures 583 to 590). The [wiki][wiki] (E
 
 ![Step 3: Bar and donut charts with plotly](docs/images/step-3-bar-and-donut-charts.jpg)
 
+![Chart made by the code: chart-step-3-donut.png](docs/images/chart-step-3-donut.png)
+
+![Chart made by the code: chart-step-3-categories.png](docs/images/chart-step-3-categories.png)
+
 **Step 4: Trends over time with Matplotlib**
 
 ![Step 4: Trends over time with Matplotlib](docs/images/step-4-trends-over-time.jpg)
+
+![Chart made by the code: chart-step-4-prizes-per-year.png](docs/images/chart-step-4-prizes-per-year.png)
 
 **Step 5: A choropleth map and the top countries**
 
 ![Step 5: A choropleth map and the top countries](docs/images/step-5-choropleth-map.jpg)
 
+![Chart made by the code: chart-step-5-choropleth.png](docs/images/chart-step-5-choropleth.png)
+
 **Step 6: Sunburst charts of research locations**
 
 ![Step 6: Sunburst charts of research locations](docs/images/step-6-sunburst-charts.jpg)
 
+![Chart made by the code: chart-step-6-sunburst.png](docs/images/chart-step-6-sunburst.png)
+
 **Step 7: The age of the laureates**
 
 ![Step 7: The age of the laureates](docs/images/step-7-laureate-age.jpg)
+
+![Chart made by the code: chart-step-7-age-histogram.png](docs/images/chart-step-7-age-histogram.png)
 
 **Step 8: Learning points and summary**
 
