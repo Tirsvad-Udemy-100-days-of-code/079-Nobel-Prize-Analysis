@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [88a4d22] |
 
 ---
 
@@ -59,3 +59,4 @@ Go — every Mandatory criterion passes; 111 tests, strict mypy, ruff and opengr
 
 [PY-001]: ../../src/nobel_analysis
 [QC-PY-001]: ../../../framework/qc/code/qc-programming-python.md
+[88a4d22]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/88a4d2257868d358a766911ccb2ed9cc1d15d17f

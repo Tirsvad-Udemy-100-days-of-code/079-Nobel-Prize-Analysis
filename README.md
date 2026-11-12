@@ -24,7 +24,43 @@ The project answers the questions of the Day 79 assignment: how the data looks a
 | `notebooks/` | The Jupyter notebook that follows the lecture step by step |
 | `data/` | `nobel_prize_data.csv` from the lecture (962 prizes, 1901 to 2020) |
 | `docs/` | Project documents, screenshots (`docs/images/`) and the wiki sources (`docs/wiki/`: English, Danish, Bahasa Malaysia) |
-| `scripts/` | `scan.sh` (opengrep) |
+| `scripts/` | `scan.sh` (opengrep), `make_wiki.py` (generates the wiki pages) |
+
+### 🖼️ Lecture steps
+
+One screenshot per lecture step (Udemy lectures 583 to 590). The [wiki][wiki] (English, Dansk, Bahasa Malaysia) explains what each step teaches.
+
+**Step 1: The goals of the day**
+
+![Step 1: The goals of the day](docs/images/step-1-goals.jpg)
+
+**Step 2: Explore and clean the data set**
+
+![Step 2: Explore and clean the data set](docs/images/step-2-explore-and-clean.jpg)
+
+**Step 3: Bar and donut charts with plotly**
+
+![Step 3: Bar and donut charts with plotly](docs/images/step-3-bar-and-donut-charts.jpg)
+
+**Step 4: Trends over time with Matplotlib**
+
+![Step 4: Trends over time with Matplotlib](docs/images/step-4-trends-over-time.jpg)
+
+**Step 5: A choropleth map and the top countries**
+
+![Step 5: A choropleth map and the top countries](docs/images/step-5-choropleth-map.jpg)
+
+**Step 6: Sunburst charts of research locations**
+
+![Step 6: Sunburst charts of research locations](docs/images/step-6-sunburst-charts.jpg)
+
+**Step 7: The age of the laureates**
+
+![Step 7: The age of the laureates](docs/images/step-7-laureate-age.jpg)
+
+**Step 8: Learning points and summary**
+
+![Step 8: Learning points and summary](docs/images/step-8-summary.jpg)
 
 ## 📋 Requirements
 
@@ -113,6 +149,7 @@ The documents a newcomer needs, in reading order.
 | [Project Plan][PP-001] | The gateways and their schedule |
 | [Milestones][milestones] | One document per gateway: Go/No-Go criteria and tasks |
 | [Artifact registry][registry] | Where each artifact type lives, the next version, the PO language and domain |
+| [Wiki sources][wikisrc] | The lecture steps explained in English, Danish and Bahasa Malaysia |
 | [Traceability matrix][TM-001] | How the artifacts link and when each was last reviewed |
 | [Framework README][framework-readme] | The framework this project uses |
 | [Framework changelog][framework-changelog] | What changed in each framework release |
@@ -120,6 +157,7 @@ The documents a newcomer needs, in reading order.
 ---
 
 [doxygen]: https://www.doxygen.nl/
+[wiki]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/wiki
 [license]: ./LICENSE
 [repository]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis
 [documentation]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/wiki
@@ -130,6 +168,7 @@ The documents a newcomer needs, in reading order.
 [PP-001]: ./docs/project-plan.md
 [milestones]: ./docs/milestones/
 [registry]: ./docs/artifact-registry.md
+[wikisrc]: ./docs/wiki/Home.md
 [TM-001]: ./docs/sqa/traceability-matrix.md
 [framework-readme]: ./framework/README.md
 [framework-changelog]: ./framework/CHANGELOG.md
