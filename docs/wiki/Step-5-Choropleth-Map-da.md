@@ -4,11 +4,11 @@
 
 **Spørgsmål:** Hvilke lande vinder flest priser, og i hvilke kategorier?
 
-![Trin 5: Et choropleth-kort og de bedste lande](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
+![Trin 5: Et choropleth-kort og de bedste lande](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
 
 *Lektion 587*
 
-![chart-step-5-choropleth.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-5-choropleth.png)
+![chart-step-5-choropleth.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-5-choropleth.png)
 
 
 ## Hvad koden gør

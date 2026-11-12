@@ -4,11 +4,11 @@
 
 **Soalan:** Negara mana memenangi paling banyak hadiah, dan dalam kategori apa?
 
-![Langkah 5: Peta choropleth dan negara teratas](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
+![Langkah 5: Peta choropleth dan negara teratas](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
 
 *Kuliah 587*
 
-![chart-step-5-choropleth.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-5-choropleth.png)
+![chart-step-5-choropleth.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-5-choropleth.png)
 
 
 ## Apa yang kod lakukan

@@ -4,7 +4,7 @@
 
 **Question:** What is the shape of the data, are there duplicates or NaN values, and how do we make the columns usable?
 
-![Step 2: Explore and clean the data set](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
+![Step 2: Explore and clean the data set](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
 
 *Lecture 584*
 

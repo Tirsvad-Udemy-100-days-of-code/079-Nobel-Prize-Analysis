@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvilken form har data, er der dubletter eller NaN-værdier, og hvordan gør vi kolonnerne brugbare?
 
-![Trin 2: Udforsk og rens datasættet](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
+![Trin 2: Udforsk og rens datasættet](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
 
 *Lektion 584*
 

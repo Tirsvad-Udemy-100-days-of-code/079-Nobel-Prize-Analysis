@@ -4,11 +4,11 @@
 
 **Question:** Are more prizes awarded recently than when the prize was created, and are prizes shared more than before?
 
-![Step 4: Trends over time with Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+![Step 4: Trends over time with Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
 
 *Lecture 586*
 
-![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
+![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
 
 
 ## What the code does

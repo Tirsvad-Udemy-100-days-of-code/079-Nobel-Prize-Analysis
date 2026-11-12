@@ -4,7 +4,7 @@
 
 **Soalan:** Apa yang kita analisis hari ini, dan apa yang akan kita pelajari?
 
-![Langkah 1: Matlamat hari ini](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
+![Langkah 1: Matlamat hari ini](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
 
 *Kuliah 583*
 

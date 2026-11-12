@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvad repeterede vi, og hvad lærte vi, der er nyt?
 
-![Trin 8: Læringspunkter og opsummering](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
+![Trin 8: Læringspunkter og opsummering](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
 
 *Lektion 590*
 

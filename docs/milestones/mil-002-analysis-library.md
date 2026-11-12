@@ -75,4 +75,4 @@ The Python package `nobel_analysis` with data loading and cleaning, the analysis
 
 [BC-001]: ../business-case.md
 [MIL-001]: ./mil-001-foundation.md
-[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
+[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b

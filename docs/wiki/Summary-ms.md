@@ -4,7 +4,7 @@
 
 **Soalan:** Apa yang kita ulang kaji, dan apa yang baharu kita pelajari?
 
-![Langkah 8: Pengajaran dan ringkasan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
+![Langkah 8: Pengajaran dan ringkasan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
 
 *Kuliah 590*
 

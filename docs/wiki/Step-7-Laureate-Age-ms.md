@@ -4,11 +4,11 @@
 
 **Soalan:** Berapa umur penerima semasa memenangi hadiah, adakah ia berbeza mengikut kategori, dan bagaimana ia berubah dari masa ke masa?
 
-![Langkah 7: Umur para penerima](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
+![Langkah 7: Umur para penerima](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
 
 *Kuliah 589*
 
-![chart-step-7-age-histogram.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-7-age-histogram.png)
+![chart-step-7-age-histogram.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-7-age-histogram.png)
 
 
 ## Apa yang kod lakukan

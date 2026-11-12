@@ -4,11 +4,11 @@
 
 **Soalan:** Adakah lebih banyak hadiah diberikan kebelakangan ini berbanding semasa hadiah diwujudkan, dan adakah hadiah dikongsi lebih ramai?
 
-![Langkah 4: Aliran dari masa ke masa dengan Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+![Langkah 4: Aliran dari masa ke masa dengan Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
 
 *Kuliah 586*
 
-![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
+![chart-step-4-prizes-per-year.png](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/chart-step-4-prizes-per-year.png)
 
 
 ## Apa yang kod lakukan

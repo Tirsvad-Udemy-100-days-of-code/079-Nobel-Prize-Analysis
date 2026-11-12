@@ -65,4 +65,4 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [PY-001]: ../../src/nobel_analysis
 [RC-008]: ./reviews/rc-008-wiki.md
 [WIKI-001]: ../wiki/Home.md
-[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel_Prize_Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
+[23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
