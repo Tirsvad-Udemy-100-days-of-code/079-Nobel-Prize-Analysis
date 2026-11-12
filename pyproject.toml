@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nobel-prize-analysis"
+version = "0.1.0"
+description = "Day 79 of Udemy's 100 Days of Code: analysing the Nobel Prize with Pandas, Plotly, Matplotlib and Seaborn."
+readme = "README.md"
+requires-python = ">=3.13"
+license = "AGPL-3.0-only"
+license-files = ["LICENSE"]
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=2.0",
+    "plotly>=5.24",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "ruff>=0.6",
+    "jupyterlab>=4",
+    "nbconvert>=7",
+    "nbclient>=0.10",
+    "ipykernel>=6",
+    "mypy>=1.11",
+    "pandas-stubs>=2.2",
+    "kaleido>=1.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 88
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.mypy]
+strict = true
+files = ["src", "tests"]
+mypy_path = "src"
+
+[[tool.mypy.overrides]]
+module = ["plotly.*", "seaborn.*"]
+ignore_missing_imports = true
