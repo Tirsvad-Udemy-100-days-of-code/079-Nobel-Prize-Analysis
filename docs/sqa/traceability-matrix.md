@@ -10,7 +10,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
-| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-010 (lecture summaries replace Udemy screenshots) | pending |
+| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-010 (lecture summaries replace Udemy screenshots) | [cdfa062] |
 
 ---
 
@@ -69,3 +69,4 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [RC-010]: ./reviews/rc-010-lecture-summaries.md
 [WIKI-001]: ../wiki/Home.md
 [23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b
+[cdfa062]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/cdfa062047dac9523db6e6f4a91d257a78922bf0

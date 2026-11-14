@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [cdfa062] |
 
 ---
 
@@ -49,3 +49,4 @@ Go — no Udemy image remains in `docs/images/`, the README or the wiki pages (s
 [PP-001]: ../../project-plan.md
 [MIL-003]: ../../milestones/mil-003-notebook-and-docs.md
 [RC-008]: ./rc-008-wiki.md
+[cdfa062]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/cdfa062047dac9523db6e6f4a91d257a78922bf0
