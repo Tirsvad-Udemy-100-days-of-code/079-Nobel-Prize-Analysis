@@ -4,7 +4,9 @@
 
 **Question:** Which countries win the most prizes, and in which categories?
 
-![Step 5: A choropleth map and the top countries](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
+## Lecture summary
+
+The lecture ranks the countries by prizes won, discusses which country column is the least problematic, and draws the result as a bar chart and a choropleth map. It ends with the prizes of each country split by category and a running total over time.
 
 *Lecture 587*
 

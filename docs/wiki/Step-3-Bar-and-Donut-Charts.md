@@ -4,7 +4,9 @@
 
 **Question:** Which categories award the most prizes, and what share of the laureates are women?
 
-![Step 3: Bar and donut charts with plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
+## Lecture summary
+
+The lecture asks how many prizes go to women and which categories award the most. It answers with a donut chart for the share of women, a ranking of the first female laureates and repeat winners, and a stacked bar chart of prizes per category and sex.
 
 *Lecture 585*
 

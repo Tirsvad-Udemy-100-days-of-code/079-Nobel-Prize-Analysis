@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvilke lande vinder flest priser, og i hvilke kategorier?
 
-![Trin 5: Et choropleth-kort og de bedste lande](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
+## Resumé af lektionen
+
+Lektionen rangerer landene efter vundne priser, drøfter hvilken landekolonne der er mindst problematisk, og tegner resultatet som søjlediagram og choropleth-kort. Den slutter med hvert lands priser fordelt på kategori og en løbende sum over tid.
 
 *Lektion 587*
 

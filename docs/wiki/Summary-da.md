@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvad repeterede vi, og hvad lærte vi, der er nyt?
 
-![Trin 8: Læringspunkter og opsummering](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
+## Resumé af lektionen
+
+Lektionen afslutter dagen med en repetition af det indøvede (manglende værdier, typeomdannelse, donut- og søjlediagrammer, glidende gennemsnit, gruppering og sortering) og en liste over det nye (choropleth-kort, sunburst-diagrammer, regressionslinjer og histogrammer).
 
 *Lektion 590*
 

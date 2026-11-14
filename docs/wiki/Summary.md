@@ -4,7 +4,9 @@
 
 **Question:** What did we review, and what did we learn that is new?
 
-![Step 8: Learning points and summary](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
+## Lecture summary
+
+The lecture closes the day by reviewing what was practised (missing values, type conversion, donut and bar charts, rolling averages, grouping and sorting) and listing what was new (choropleth maps, sunburst charts, regression lines and histograms).
 
 *Lecture 590*
 

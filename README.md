@@ -23,24 +23,24 @@ The project answers the questions of the Day 79 assignment: how the data looks a
 | `tests/` | Tests that assert the values from the lecture |
 | `notebooks/` | The Jupyter notebook that follows the lecture step by step |
 | `data/` | `nobel_prize_data.csv` from the lecture (962 prizes, 1901 to 2020) |
-| `docs/` | Project documents, screenshots (`docs/images/`) and the wiki sources (`docs/wiki/`: English, Danish, Bahasa Malaysia) |
+| `docs/` | Project documents, chart images (`docs/images/`) and the wiki sources (`docs/wiki/`: English, Danish, Bahasa Malaysia) |
 | `scripts/` | `scan.sh` (opengrep), `make_wiki.py` (wiki pages), `make_notebook.py` (notebook), `make_screenshots.py` (chart images) |
 
 ### 🖼️ Lecture steps
 
-One screenshot per lecture step (Udemy lectures 583 to 590), and the charts the code draws for that step (regenerate them with `python scripts/make_screenshots.py`). The [wiki][wiki] (English, Dansk, Bahasa Malaysia) explains what each step teaches.
+A short summary of each lecture step (Udemy lectures 583 to 590, in our own words) and the charts the code draws for that step (regenerate them with `python scripts/make_screenshots.py`). The [wiki][wiki] (English, Dansk, Bahasa Malaysia) explains what each step teaches.
 
 **Step 1: The goals of the day**
 
-![Step 1: The goals of the day](docs/images/step-1-goals.jpg)
+The lecture introduces the day: study the history of the Nobel Prize to see who wins, where and when. It lists the charts we will build (a choropleth map, bar and sunburst charts, regression lines and a histogram) and the questions we will ask of the data.
 
 **Step 2: Explore and clean the data set**
 
-![Step 2: Explore and clean the data set](docs/images/step-2-explore-and-clean.jpg)
+The lecture loads the data set and inspects it: its shape, the first and last rows, duplicates and missing values. It then converts the birth date to a real date and turns the prize share into a percentage so later steps can calculate with it.
 
 **Step 3: Bar and donut charts with plotly**
 
-![Step 3: Bar and donut charts with plotly](docs/images/step-3-bar-and-donut-charts.jpg)
+The lecture asks how many prizes go to women and which categories award the most. It answers with a donut chart for the share of women, a ranking of the first female laureates and repeat winners, and a stacked bar chart of prizes per category and sex.
 
 ![Chart made by the code: chart-step-3-donut.png](docs/images/chart-step-3-donut.png)
 
@@ -48,31 +48,31 @@ One screenshot per lecture step (Udemy lectures 583 to 590), and the charts the 
 
 **Step 4: Trends over time with Matplotlib**
 
-![Step 4: Trends over time with Matplotlib](docs/images/step-4-trends-over-time.jpg)
+The lecture looks at the number of prizes per year and asks whether more prizes are given now. A 5 year rolling average smooths the noise, and a second axis shows whether prizes are shared among more people over time.
 
 ![Chart made by the code: chart-step-4-prizes-per-year.png](docs/images/chart-step-4-prizes-per-year.png)
 
 **Step 5: A choropleth map and the top countries**
 
-![Step 5: A choropleth map and the top countries](docs/images/step-5-choropleth-map.jpg)
+The lecture ranks the countries by prizes won, discusses which country column is the least problematic, and draws the result as a bar chart and a choropleth map. It ends with the prizes of each country split by category and a running total over time.
 
 ![Chart made by the code: chart-step-5-choropleth.png](docs/images/chart-step-5-choropleth.png)
 
 **Step 6: Sunburst charts of research locations**
 
-![Step 6: Sunburst charts of research locations](docs/images/step-6-sunburst-charts.jpg)
+The lecture asks where discoveries are made. It ranks research organisations and cities, compares them with where laureates were born, and shows the country, city and organisation hierarchy in a sunburst chart.
 
 ![Chart made by the code: chart-step-6-sunburst.png](docs/images/chart-step-6-sunburst.png)
 
 **Step 7: The age of the laureates**
 
-![Step 7: The age of the laureates](docs/images/step-7-laureate-age.jpg)
+The lecture calculates the age at which each laureate won, finds the oldest and youngest, and shows the distribution in a histogram. Regression lines and box plots then show how the age differs by category and has changed over the years.
 
 ![Chart made by the code: chart-step-7-age-histogram.png](docs/images/chart-step-7-age-histogram.png)
 
 **Step 8: Learning points and summary**
 
-![Step 8: Learning points and summary](docs/images/step-8-summary.jpg)
+The lecture closes the day by reviewing what was practised (missing values, type conversion, donut and bar charts, rolling averages, grouping and sorting) and listing what was new (choropleth maps, sunburst charts, regression lines and histograms).
 
 ## 📋 Requirements
 

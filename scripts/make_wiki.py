@@ -7,14 +7,14 @@ OUT.mkdir(parents=True, exist_ok=True)
 IMG = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/"
 LANGS = [("en", "English", ""), ("da", "Dansk", "-da"), ("ms", "Bahasa Malaysia", "-ms")]
 LBL = {
-    "en": dict(q="Question", code="What the code does", gain="What you gained", prev="Previous", next="Next", lec="Lecture"),
-    "da": dict(q="Spørgsmål", code="Hvad koden gør", gain="Hvad du lærte", prev="Forrige", next="Næste", lec="Lektion"),
-    "ms": dict(q="Soalan", code="Apa yang kod lakukan", gain="Apa yang anda pelajari", prev="Sebelumnya", next="Seterusnya", lec="Kuliah"),
+    "en": dict(q="Question", code="What the code does", gain="What you gained", prev="Previous", next="Next", lec="Lecture", sum="Lecture summary"),
+    "da": dict(q="Spørgsmål", code="Hvad koden gør", gain="Hvad du lærte", prev="Forrige", next="Næste", lec="Lektion", sum="Resumé af lektionen"),
+    "ms": dict(q="Soalan", code="Apa yang kod lakukan", gain="Apa yang anda pelajari", prev="Sebelumnya", next="Seterusnya", lec="Kuliah", sum="Ringkasan kuliah"),
 }
 
 STEPS = [
     dict(
-        slug="Step-1-Goals", img="step-1-goals.jpg", lec="583",
+        slug="Step-1-Goals", lec="583",
         title=dict(en="Step 1: The goals of the day", da="Trin 1: Dagens mål", ms="Langkah 1: Matlamat hari ini"),
         short=dict(en="Step 1 Goals", da="Trin 1 Mål", ms="Langkah 1 Matlamat"),
         gain_line=dict(en="What will we build, and which tools do we need?", da="Hvad skal vi bygge, og hvilke værktøjer skal vi bruge?", ms="Apa yang akan kita bina, dan alat apa yang diperlukan?"),
@@ -31,7 +31,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-2-Explore-and-Clean", img="step-2-explore-and-clean.jpg", lec="584",
+        slug="Step-2-Explore-and-Clean", lec="584",
         title=dict(en="Step 2: Explore and clean the data set", da="Trin 2: Udforsk og rens datasættet", ms="Langkah 2: Teroka dan bersihkan set data"),
         short=dict(en="Step 2 Explore and Clean", da="Trin 2 Udforsk og Rens", ms="Langkah 2 Teroka dan Bersih"),
         gain_line=dict(en="What does the data look like, and what is missing?", da="Hvordan ser data ud, og hvad mangler?", ms="Bagaimana rupa data, dan apa yang tiada?"),
@@ -48,7 +48,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-3-Bar-and-Donut-Charts", img="step-3-bar-and-donut-charts.jpg", lec="585",
+        slug="Step-3-Bar-and-Donut-Charts", lec="585",
         title=dict(en="Step 3: Bar and donut charts with plotly", da="Trin 3: Søjle- og donutdiagrammer med plotly", ms="Langkah 3: Carta bar dan donat dengan plotly"),
         short=dict(en="Step 3 Bar and Donut Charts", da="Trin 3 Søjle- og Donutdiagrammer", ms="Langkah 3 Carta Bar dan Donat"),
         gain_line=dict(en="Which categories award most prizes, and how many prizes went to women?", da="Hvilke kategorier uddeler flest priser, og hvor mange gik til kvinder?", ms="Kategori mana memberi paling banyak hadiah, dan berapa banyak kepada wanita?"),
@@ -65,7 +65,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-4-Trends-over-Time", img="step-4-trends-over-time.jpg", lec="586",
+        slug="Step-4-Trends-over-Time", lec="586",
         title=dict(en="Step 4: Trends over time with Matplotlib", da="Trin 4: Tendenser over tid med Matplotlib", ms="Langkah 4: Aliran dari masa ke masa dengan Matplotlib"),
         short=dict(en="Step 4 Trends over Time", da="Trin 4 Tendenser over Tid", ms="Langkah 4 Aliran Masa"),
         gain_line=dict(en="Are more prizes awarded now than in the beginning?", da="Uddeles der flere priser nu end i begyndelsen?", ms="Adakah lebih banyak hadiah diberikan sekarang berbanding permulaan?"),
@@ -82,7 +82,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-5-Choropleth-Map", img="step-5-choropleth-map.jpg", lec="587",
+        slug="Step-5-Choropleth-Map", lec="587",
         title=dict(en="Step 5: A choropleth map and the top countries", da="Trin 5: Et choropleth-kort og de bedste lande", ms="Langkah 5: Peta choropleth dan negara teratas"),
         short=dict(en="Step 5 Choropleth Map", da="Trin 5 Choropleth-kort", ms="Langkah 5 Peta Choropleth"),
         gain_line=dict(en="Which countries win the most prizes?", da="Hvilke lande vinder flest priser?", ms="Negara mana memenangi paling banyak hadiah?"),
@@ -99,7 +99,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-6-Sunburst-Charts", img="step-6-sunburst-charts.jpg", lec="588",
+        slug="Step-6-Sunburst-Charts", lec="588",
         title=dict(en="Step 6: Sunburst charts of research locations", da="Trin 6: Sunburst-diagrammer over forskningssteder", ms="Langkah 6: Carta sunburst lokasi penyelidikan"),
         short=dict(en="Step 6 Sunburst Charts", da="Trin 6 Sunburst-diagrammer", ms="Langkah 6 Carta Sunburst"),
         gain_line=dict(en="Which institutions and cities are hot spots for discoveries?", da="Hvilke institutioner og byer er hotspots for opdagelser?", ms="Institusi dan bandar mana menjadi tumpuan penemuan?"),
@@ -116,7 +116,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Step-7-Laureate-Age", img="step-7-laureate-age.jpg", lec="589",
+        slug="Step-7-Laureate-Age", lec="589",
         title=dict(en="Step 7: The age of the laureates", da="Trin 7: Modtagernes alder", ms="Langkah 7: Umur para penerima"),
         short=dict(en="Step 7 Laureate Age", da="Trin 7 Modtagernes Alder", ms="Langkah 7 Umur Penerima"),
         gain_line=dict(en="How old are laureates when they win, and has that changed?", da="Hvor gamle er modtagere, når de vinder, og har det ændret sig?", ms="Berapa umur penerima semasa menang, dan adakah ia berubah?"),
@@ -133,7 +133,7 @@ STEPS = [
         ),
     ),
     dict(
-        slug="Summary", img="step-8-summary.jpg", lec="590",
+        slug="Summary", lec="590",
         title=dict(en="Step 8: Learning points and summary", da="Trin 8: Læringspunkter og opsummering", ms="Langkah 8: Pengajaran dan ringkasan"),
         short=dict(en="Summary", da="Opsummering", ms="Ringkasan"),
         gain_line=dict(en="Everything the lecture taught, in one list", da="Alt hvad lektionen lærte, på én liste", ms="Semua yang diajar kuliah, dalam satu senarai"),
@@ -151,12 +151,55 @@ STEPS = [
     ),
 ]
 
+SUM = {
+    "Step-1-Goals": dict(
+        en="The lecture introduces the day: study the history of the Nobel Prize to see who wins, where and when. It lists the charts we will build (a choropleth map, bar and sunburst charts, regression lines and a histogram) and the questions we will ask of the data.",
+        da="Lektionen introducerer dagen: vi studerer Nobelprisens historie for at se, hvem der vinder, hvor og hvornår. Den opremser de diagrammer, vi skal bygge (et choropleth-kort, søjle- og sunburst-diagrammer, regressionslinjer og et histogram) og de spørgsmål, vi stiller til data.",
+        ms="Kuliah memperkenalkan hari ini: kita mengkaji sejarah Hadiah Nobel untuk melihat siapa menang, di mana dan bila. Ia menyenaraikan carta yang akan dibina (peta choropleth, carta bar dan sunburst, garis regresi dan histogram) serta soalan yang akan ditanya kepada data.",
+    ),
+    "Step-2-Explore-and-Clean": dict(
+        en="The lecture loads the data set and inspects it: its shape, the first and last rows, duplicates and missing values. It then converts the birth date to a real date and turns the prize share into a percentage so later steps can calculate with it.",
+        da="Lektionen indlæser datasættet og undersøger det: form, første og sidste rækker, dubletter og manglende værdier. Derefter omdannes fødselsdatoen til en rigtig dato, og prisandelen til en procent, så de senere trin kan regne med den.",
+        ms="Kuliah memuatkan set data dan memeriksanya: bentuk, baris pertama dan terakhir, pendua dan nilai hilang. Kemudian tarikh lahir ditukar kepada tarikh sebenar dan bahagian hadiah kepada peratusan supaya langkah seterusnya boleh mengira dengannya.",
+    ),
+    "Step-3-Bar-and-Donut-Charts": dict(
+        en="The lecture asks how many prizes go to women and which categories award the most. It answers with a donut chart for the share of women, a ranking of the first female laureates and repeat winners, and a stacked bar chart of prizes per category and sex.",
+        da="Lektionen spørger, hvor mange priser der går til kvinder, og hvilke kategorier der uddeler flest. Svaret er et donutdiagram over kvindernes andel, en rangering af de første kvindelige modtagere og gengangere samt et stablet søjlediagram over priser pr. kategori og køn.",
+        ms="Kuliah bertanya berapa banyak hadiah diberikan kepada wanita dan kategori mana memberi paling banyak. Jawapannya ialah carta donat bagi peratus wanita, senarai penerima wanita pertama dan pemenang berulang, serta carta bar bertindan hadiah mengikut kategori dan jantina.",
+    ),
+    "Step-4-Trends-over-Time": dict(
+        en="The lecture looks at the number of prizes per year and asks whether more prizes are given now. A 5 year rolling average smooths the noise, and a second axis shows whether prizes are shared among more people over time.",
+        da="Lektionen ser på antallet af priser pr. år og spørger, om der uddeles flere priser nu. Et 5-årigt glidende gennemsnit udjævner støjen, og en anden akse viser, om priserne deles mellem flere over tid.",
+        ms="Kuliah melihat bilangan hadiah setiap tahun dan bertanya sama ada lebih banyak hadiah diberikan sekarang. Purata bergulir 5 tahun melicinkan hingar, dan paksi kedua menunjukkan sama ada hadiah dikongsi lebih ramai dari masa ke masa.",
+    ),
+    "Step-5-Choropleth-Map": dict(
+        en="The lecture ranks the countries by prizes won, discusses which country column is the least problematic, and draws the result as a bar chart and a choropleth map. It ends with the prizes of each country split by category and a running total over time.",
+        da="Lektionen rangerer landene efter vundne priser, drøfter hvilken landekolonne der er mindst problematisk, og tegner resultatet som søjlediagram og choropleth-kort. Den slutter med hvert lands priser fordelt på kategori og en løbende sum over tid.",
+        ms="Kuliah menyusun negara mengikut hadiah yang dimenangi, membincangkan lajur negara yang paling kurang bermasalah, dan melukis hasilnya sebagai carta bar dan peta choropleth. Ia berakhir dengan hadiah setiap negara mengikut kategori dan jumlah berjalan dari masa ke masa.",
+    ),
+    "Step-6-Sunburst-Charts": dict(
+        en="The lecture asks where discoveries are made. It ranks research organisations and cities, compares them with where laureates were born, and shows the country, city and organisation hierarchy in a sunburst chart.",
+        da="Lektionen spørger, hvor opdagelserne gøres. Den rangerer forskningsorganisationer og byer, sammenligner med hvor modtagerne blev født og viser hierarkiet land, by og organisation i et sunburst-diagram.",
+        ms="Kuliah bertanya di mana penemuan dibuat. Ia menyusun organisasi penyelidikan dan bandar, membandingkannya dengan tempat penerima dilahirkan, dan menunjukkan hierarki negara, bandar dan organisasi dalam carta sunburst.",
+    ),
+    "Step-7-Laureate-Age": dict(
+        en="The lecture calculates the age at which each laureate won, finds the oldest and youngest, and shows the distribution in a histogram. Regression lines and box plots then show how the age differs by category and has changed over the years.",
+        da="Lektionen beregner alderen, hvor hver modtager vandt, finder den ældste og yngste og viser fordelingen i et histogram. Regressionslinjer og boksplot viser derefter, hvordan alderen er forskellig efter kategori og har ændret sig gennem årene.",
+        ms="Kuliah mengira umur setiap penerima semasa menang, mencari yang tertua dan termuda, dan menunjukkan taburan dalam histogram. Garis regresi dan plot kotak kemudian menunjukkan bagaimana umur berbeza mengikut kategori dan berubah sepanjang tahun.",
+    ),
+    "Summary": dict(
+        en="The lecture closes the day by reviewing what was practised (missing values, type conversion, donut and bar charts, rolling averages, grouping and sorting) and listing what was new (choropleth maps, sunburst charts, regression lines and histograms).",
+        da="Lektionen afslutter dagen med en repetition af det indøvede (manglende værdier, typeomdannelse, donut- og søjlediagrammer, glidende gennemsnit, gruppering og sortering) og en liste over det nye (choropleth-kort, sunburst-diagrammer, regressionslinjer og histogrammer).",
+        ms="Kuliah menutup hari dengan mengulang kaji apa yang dilatih (nilai hilang, penukaran jenis, carta donat dan bar, purata bergulir, pengumpulan dan penyusunan) dan menyenaraikan yang baharu (peta choropleth, carta sunburst, garis regresi dan histogram).",
+    ),
+}
+
 HOME = dict(
     title=dict(en="Nobel Prize Analysis", da="Nobelprisanalyse", ms="Analisis Hadiah Nobel"),
     intro=dict(
-        en="Day 79 of Udemy's *100 Days of Code*: analyse the past winners of the Nobel Prize with Pandas, Plotly, Matplotlib and Seaborn. This wiki explains what each lecture step teaches. Every step has a screenshot of its lecture.",
-        da="Dag 79 af Udemys *100 Days of Code*: analysér tidligere vindere af Nobelprisen med Pandas, Plotly, Matplotlib og Seaborn. Denne wiki forklarer hvad hvert trin i lektionen lærer. Hvert trin har et skærmbillede af sin lektion.",
-        ms="Hari 79 *100 Days of Code* Udemy: menganalisis pemenang Hadiah Nobel yang lalu dengan Pandas, Plotly, Matplotlib dan Seaborn. Wiki ini menerangkan apa yang diajar oleh setiap langkah kuliah. Setiap langkah mempunyai tangkapan skrin kuliahnya.",
+        en="Day 79 of Udemy's *100 Days of Code*: analyse the past winners of the Nobel Prize with Pandas, Plotly, Matplotlib and Seaborn. This wiki explains what each lecture step teaches. Every step has a short summary of its lecture, written in our own words.",
+        da="Dag 79 af Udemys *100 Days of Code*: analysér tidligere vindere af Nobelprisen med Pandas, Plotly, Matplotlib og Seaborn. Denne wiki forklarer hvad hvert trin i lektionen lærer. Hvert trin har et kort resumé af sin lektion, skrevet med vores egne ord.",
+        ms="Hari 79 *100 Days of Code* Udemy: menganalisis pemenang Hadiah Nobel yang lalu dengan Pandas, Plotly, Matplotlib dan Seaborn. Wiki ini menerangkan apa yang diajar oleh setiap langkah kuliah. Setiap langkah mempunyai ringkasan pendek kuliahnya, ditulis dengan perkataan kami sendiri.",
     ),
     page=dict(en="Page", da="Side", ms="Halaman"),
     gain=dict(en="What you gain", da="Hvad du får", ms="Apa yang anda peroleh"),
@@ -189,7 +232,7 @@ GS = dict(
     ),
 )
 
-CHARTS = {'step-3-bar-and-donut-charts.jpg': ['chart-step-3-donut.png', 'chart-step-3-categories.png'], 'step-4-trends-over-time.jpg': ['chart-step-4-prizes-per-year.png'], 'step-5-choropleth-map.jpg': ['chart-step-5-choropleth.png'], 'step-6-sunburst-charts.jpg': ['chart-step-6-sunburst.png'], 'step-7-laureate-age.jpg': ['chart-step-7-age-histogram.png']}
+CHARTS = {'Step-3-Bar-and-Donut-Charts': ['chart-step-3-donut.png', 'chart-step-3-categories.png'], 'Step-4-Trends-over-Time': ['chart-step-4-prizes-per-year.png'], 'Step-5-Choropleth-Map': ['chart-step-5-choropleth.png'], 'Step-6-Sunburst-Charts': ['chart-step-6-sunburst.png'], 'Step-7-Laureate-Age': ['chart-step-7-age-histogram.png']}
 
 ORDER = ["Home", "Getting-Started"] + [s["slug"] for s in STEPS]
 
@@ -214,7 +257,7 @@ def nav(slug, lang):
 
 
 def extra(s):
-    return "".join(f"\n![{c}]({IMG}{c})\n" for c in CHARTS.get(s["img"], []))
+    return "".join(f"\n![{c}]({IMG}{c})\n" for c in CHARTS.get(s["slug"], []))
 
 
 def write(name, text):
@@ -285,7 +328,9 @@ bash scripts/scan.sh
 
 **{l['q']}:** {s['q'][code]}
 
-![{s['title'][code]}]({IMG}{s['img']})
+## {l['sum']}
+
+{SUM[s['slug']][code]}
 
 *{l['lec']} {s['lec']}*
 {extra(s)}

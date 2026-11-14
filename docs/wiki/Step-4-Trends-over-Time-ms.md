@@ -4,7 +4,9 @@
 
 **Soalan:** Adakah lebih banyak hadiah diberikan kebelakangan ini berbanding semasa hadiah diwujudkan, dan adakah hadiah dikongsi lebih ramai?
 
-![Langkah 4: Aliran dari masa ke masa dengan Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+## Ringkasan kuliah
+
+Kuliah melihat bilangan hadiah setiap tahun dan bertanya sama ada lebih banyak hadiah diberikan sekarang. Purata bergulir 5 tahun melicinkan hingar, dan paksi kedua menunjukkan sama ada hadiah dikongsi lebih ramai dari masa ke masa.
 
 *Kuliah 586*
 

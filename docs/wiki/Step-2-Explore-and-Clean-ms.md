@@ -4,7 +4,9 @@
 
 **Soalan:** Apakah bentuk data, adakah ada pendua atau nilai NaN, dan bagaimana menjadikan lajur boleh digunakan?
 
-![Langkah 2: Teroka dan bersihkan set data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-2-explore-and-clean.jpg)
+## Ringkasan kuliah
+
+Kuliah memuatkan set data dan memeriksanya: bentuk, baris pertama dan terakhir, pendua dan nilai hilang. Kemudian tarikh lahir ditukar kepada tarikh sebenar dan bahagian hadiah kepada peratusan supaya langkah seterusnya boleh mengira dengannya.
 
 *Kuliah 584*
 

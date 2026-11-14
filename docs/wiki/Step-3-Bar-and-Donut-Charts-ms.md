@@ -4,7 +4,9 @@
 
 **Soalan:** Kategori mana memberi paling banyak hadiah, dan berapa peratus penerima adalah wanita?
 
-![Langkah 3: Carta bar dan donat dengan plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
+## Ringkasan kuliah
+
+Kuliah bertanya berapa banyak hadiah diberikan kepada wanita dan kategori mana memberi paling banyak. Jawapannya ialah carta donat bagi peratus wanita, senarai penerima wanita pertama dan pemenang berulang, serta carta bar bertindan hadiah mengikut kategori dan jantina.
 
 *Kuliah 585*
 

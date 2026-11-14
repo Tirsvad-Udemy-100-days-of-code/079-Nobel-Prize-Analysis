@@ -4,7 +4,9 @@
 
 **Soalan:** Organisasi penyelidikan dan bandar mana mempunyai paling ramai penerima semasa penemuan dibuat?
 
-![Langkah 6: Carta sunburst lokasi penyelidikan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
+## Ringkasan kuliah
+
+Kuliah bertanya di mana penemuan dibuat. Ia menyusun organisasi penyelidikan dan bandar, membandingkannya dengan tempat penerima dilahirkan, dan menunjukkan hierarki negara, bandar dan organisasi dalam carta sunburst.
 
 *Kuliah 588*
 

@@ -10,6 +10,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
+| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Added RC-010 (lecture summaries replace Udemy screenshots) | pending |
 
 ---
 
@@ -21,14 +22,14 @@ Tracks backward and forward links between artifact instances so that traceabilit
 
 | Artifact Instance | Type | Language | Domain | Upstream (Backward Link) | Downstream (Forward Link) | Last Reviewed (RC-ID) |
 | --- | --- | --- | --- | --- | --- | --- |
-| [BC-001] | BC | en | it | - | [SA-001], [PP-001] | [RC-001] |
+| [BC-001] | BC | en | it | - | [SA-001], [PP-001] | [RC-001], [RC-010] |
 | [SA-001] | SA | en | it | [BC-001] | [PP-001] | [RC-002] |
-| [PP-001] | PP | en | it | [BC-001], [SA-001] | [MIL-001], [MIL-002], [MIL-003] | [RC-003] |
+| [PP-001] | PP | en | it | [BC-001], [SA-001] | [MIL-001], [MIL-002], [MIL-003] | [RC-003], [RC-010] |
 | [MIL-001] | MIL | en | it | [PP-001] | [MIL-002] | [RC-004] |
 | [MIL-002] | MIL | en | it | [MIL-001] | [MIL-003] | [RC-005] |
 | [PY-001] | PY | - | - | [MIL-002] | - | [RC-007] |
-| [WIKI-001] | WIKI | en, da, ms | it | [MIL-003] | - | [RC-009], [RC-008] |
-| [MIL-003] | MIL | en | it | [MIL-002] | - | [RC-006] |
+| [WIKI-001] | WIKI | en, da, ms | it | [MIL-003] | - | [RC-010], [RC-009], [RC-008] |
+| [MIL-003] | MIL | en | it | [MIL-002] | - | [RC-006], [RC-010] |
 
 ## Concern Coverage
 
@@ -65,5 +66,6 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [PY-001]: ../../src/nobel_analysis
 [RC-008]: ./reviews/rc-008-wiki.md
 [RC-009]: ./reviews/rc-009-wiki-published-check.md
+[RC-010]: ./reviews/rc-010-lecture-summaries.md
 [WIKI-001]: ../wiki/Home.md
 [23ad5bb]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/commit/23ad5bbc2f45375d6f19cfe3fcb6a3fbe9c9c97b

@@ -4,7 +4,9 @@
 
 **Soalan:** Apa yang kita ulang kaji, dan apa yang baharu kita pelajari?
 
-![Langkah 8: Pengajaran dan ringkasan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-8-summary.jpg)
+## Ringkasan kuliah
+
+Kuliah menutup hari dengan mengulang kaji apa yang dilatih (nilai hilang, penukaran jenis, carta donat dan bar, purata bergulir, pengumpulan dan penyusunan) dan menyenaraikan yang baharu (peta choropleth, carta sunburst, garis regresi dan histogram).
 
 *Kuliah 590*
 

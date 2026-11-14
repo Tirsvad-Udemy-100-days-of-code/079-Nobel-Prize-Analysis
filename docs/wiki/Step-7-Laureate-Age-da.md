@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvor gamle er modtagerne, når de vinder prisen, varierer det efter kategori, og hvordan har det ændret sig over tid?
 
-![Trin 7: Modtagernes alder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
+## Resumé af lektionen
+
+Lektionen beregner alderen, hvor hver modtager vandt, finder den ældste og yngste og viser fordelingen i et histogram. Regressionslinjer og boksplot viser derefter, hvordan alderen er forskellig efter kategori og har ændret sig gennem årene.
 
 *Lektion 589*
 

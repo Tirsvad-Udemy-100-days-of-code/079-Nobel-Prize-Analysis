@@ -4,7 +4,9 @@
 
 **Question:** Which research organisations and cities had the most laureates at the time of the discovery?
 
-![Step 6: Sunburst charts of research locations](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
+## Lecture summary
+
+The lecture asks where discoveries are made. It ranks research organisations and cities, compares them with where laureates were born, and shows the country, city and organisation hierarchy in a sunburst chart.
 
 *Lecture 588*
 

@@ -4,7 +4,9 @@
 
 **Question:** Are more prizes awarded recently than when the prize was created, and are prizes shared more than before?
 
-![Step 4: Trends over time with Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+## Lecture summary
+
+The lecture looks at the number of prizes per year and asks whether more prizes are given now. A 5 year rolling average smooths the noise, and a second axis shows whether prizes are shared among more people over time.
 
 *Lecture 586*
 

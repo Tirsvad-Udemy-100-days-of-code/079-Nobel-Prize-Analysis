@@ -12,6 +12,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
+| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Udemy screenshots replaced by own-word lecture summaries (copyright) | pending |
 
 ---
 
@@ -32,7 +33,7 @@ This plan schedules three gateways that turn the Day 79 Nobel Prize assignment i
 | --- | --- | --- | --- | --- | --- | --- |
 | Foundation | [MIL-001] | 2026-11-12 | 2026-11-12 | S01 | none (technical tasks) | Project configuration, Doxyfile, data, set-up guide, repository description |
 | Analysis library | [MIL-002] | 2026-11-12 | 2026-11-12 | S01 | none (technical tasks) | Tested `nobel_analysis` package |
-| Notebook and documentation | [MIL-003] | 2026-11-12 | 2026-11-12 | S01 | none (technical tasks) | Notebook, screenshots, README and wiki in en, da and ms |
+| Notebook and documentation | [MIL-003] | 2026-11-12 | 2026-11-12 | S01 | none (technical tasks) | Notebook, lecture summaries, README and wiki in en, da and ms |
 
 ```plantuml
 @startgantt

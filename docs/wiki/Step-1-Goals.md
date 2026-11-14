@@ -4,7 +4,9 @@
 
 **Question:** What do we analyse today, and what will we learn?
 
-![Step 1: The goals of the day](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
+## Lecture summary
+
+The lecture introduces the day: study the history of the Nobel Prize to see who wins, where and when. It lists the charts we will build (a choropleth map, bar and sunburst charts, regression lines and a histogram) and the questions we will ask of the data.
 
 *Lecture 583*
 

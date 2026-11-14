@@ -12,6 +12,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [23ad5bb] |
+| 2026-11-14 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Udemy screenshots replaced by own-word lecture summaries (copyright) | pending |
 
 ---
 
@@ -37,7 +38,7 @@ A clean repository makes the solution reusable as a reference for other course p
 2. Provide a Jupyter notebook that reproduces every lecture step, including the charts.
 3. Provide automated tests that check each answer against the dataset.
 4. Provide a README with set-up, run and test instructions, and a wiki in English, Danish and Bahasa Malaysia that explains what each lecture step teaches, with Linux and Windows guides.
-5. Provide one screenshot per lecture step in the README and the wiki.
+5. Provide a short summary of each lecture step, written in our own words, in the README and the wiki. Udemy screenshots are not used because they may be copyrighted.
 6. Publish the repository with a description and topics.
 
 ## Scope
@@ -61,7 +62,7 @@ A clean repository makes the solution reusable as a reference for other course p
 ### Tangible Benefits
 
 - A repository that runs with a few commands and passes its tests.
-- Eight step screenshots and a three-language wiki that can be reused for later days.
+- Eight step summaries and a three-language wiki that can be reused for later days.
 
 ### Intangible Benefits
 
@@ -79,7 +80,7 @@ The project supports the course participant's goal of completing the bootcamp wi
 | 1 | Assignment questions answered | All challenge questions answered; values equal the lecture's (962 rows, 16 columns, first prize 1901, last year 2020) | automated tests pass |
 | 2 | Notebook runs | 100 % of cells execute without error from a fresh `.venv` | `jupyter nbconvert --execute` exits 0 |
 | 3 | Documentation languages | 3 of 3 wiki languages with the same page set | file listing of `docs/wiki/` |
-| 4 | Screenshots | 8 of 8 lecture steps have a screenshot in the README and the wiki | file listing of `docs/images/` |
+| 4 | Lecture summaries | 8 of 8 lecture steps have a summary in the README and the wiki; no Udemy screenshot is stored | README and `docs/wiki/` pages; file listing of `docs/images/` |
 | 5 | Security scan | 0 findings from opengrep before each push | opengrep exit code |
 | 6 | Dependencies | Runtime dependencies limited to those the charts need (pandas, numpy, plotly, matplotlib, seaborn) | `pyproject.toml` |
 
@@ -90,7 +91,7 @@ The project supports the course participant's goal of completing the bootcamp wi
 | The dataset is not available locally (it is a Udemy resource) | Tests cannot assert the real values | S01 supplies `nobel_prize_data.csv`; until then tests run on a small synthetic fixture and the real-value tests are skipped and reported |
 | The dataset or the course material licence forbids republishing | The repository must be private or the data removed | The README names the source; S01 decides whether the data file is committed |
 | A lecture value differs because of a different library version | A test fails | Tests assert exact values from the supplied snapshot; `pyproject.toml` pins minimum versions only |
-| Screenshots drift from the code | The documentation misleads | One script regenerates the code-made screenshots |
+| Chart images drift from the code | The documentation misleads | One script regenerates the code-made chart images |
 | A token leaks into the repository | Account compromise | `.env` is ignored by git, is never read by the project code and is never printed |
 
 ## Assumptions

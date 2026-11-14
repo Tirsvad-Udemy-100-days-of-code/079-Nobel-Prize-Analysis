@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvilke forskningsorganisationer og byer havde flest modtagere da opdagelsen blev gjort?
 
-![Trin 6: Sunburst-diagrammer over forskningssteder](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-6-sunburst-charts.jpg)
+## Resumé af lektionen
+
+Lektionen spørger, hvor opdagelserne gøres. Den rangerer forskningsorganisationer og byer, sammenligner med hvor modtagerne blev født og viser hierarkiet land, by og organisation i et sunburst-diagram.
 
 *Lektion 588*
 

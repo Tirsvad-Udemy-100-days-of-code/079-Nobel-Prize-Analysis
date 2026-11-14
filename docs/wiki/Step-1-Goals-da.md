@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvad analyserer vi i dag, og hvad lærer vi?
 
-![Trin 1: Dagens mål](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
+## Resumé af lektionen
+
+Lektionen introducerer dagen: vi studerer Nobelprisens historie for at se, hvem der vinder, hvor og hvornår. Den opremser de diagrammer, vi skal bygge (et choropleth-kort, søjle- og sunburst-diagrammer, regressionslinjer og et histogram) og de spørgsmål, vi stiller til data.
 
 *Lektion 583*
 

@@ -2,7 +2,7 @@
 
 # Analisis Hadiah Nobel
 
-Hari 79 *100 Days of Code* Udemy: menganalisis pemenang Hadiah Nobel yang lalu dengan Pandas, Plotly, Matplotlib dan Seaborn. Wiki ini menerangkan apa yang diajar oleh setiap langkah kuliah. Setiap langkah mempunyai tangkapan skrin kuliahnya.
+Hari 79 *100 Days of Code* Udemy: menganalisis pemenang Hadiah Nobel yang lalu dengan Pandas, Plotly, Matplotlib dan Seaborn. Wiki ini menerangkan apa yang diajar oleh setiap langkah kuliah. Setiap langkah mempunyai ringkasan pendek kuliahnya, ditulis dengan perkataan kami sendiri.
 
 | Halaman | Apa yang anda peroleh |
 | --- | --- |

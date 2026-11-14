@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Uddeles der flere priser nu end da prisen blev oprettet, og deles priserne mere end før?
 
-![Trin 4: Tendenser over tid med Matplotlib](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-4-trends-over-time.jpg)
+## Resumé af lektionen
+
+Lektionen ser på antallet af priser pr. år og spørger, om der uddeles flere priser nu. Et 5-årigt glidende gennemsnit udjævner støjen, og en anden akse viser, om priserne deles mellem flere over tid.
 
 *Lektion 586*
 

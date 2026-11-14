@@ -4,7 +4,9 @@
 
 **Spørgsmål:** Hvilke kategorier uddeler flest priser, og hvor stor en andel af modtagerne er kvinder?
 
-![Trin 3: Søjle- og donutdiagrammer med plotly](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-3-bar-and-donut-charts.jpg)
+## Resumé af lektionen
+
+Lektionen spørger, hvor mange priser der går til kvinder, og hvilke kategorier der uddeler flest. Svaret er et donutdiagram over kvindernes andel, en rangering af de første kvindelige modtagere og gengangere samt et stablet søjlediagram over priser pr. kategori og køn.
 
 *Lektion 585*
 

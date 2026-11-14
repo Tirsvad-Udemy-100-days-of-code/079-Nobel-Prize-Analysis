@@ -4,7 +4,9 @@
 
 **Soalan:** Berapa umur penerima semasa memenangi hadiah, adakah ia berbeza mengikut kategori, dan bagaimana ia berubah dari masa ke masa?
 
-![Langkah 7: Umur para penerima](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-7-laureate-age.jpg)
+## Ringkasan kuliah
+
+Kuliah mengira umur setiap penerima semasa menang, mencari yang tertua dan termuda, dan menunjukkan taburan dalam histogram. Garis regresi dan plot kotak kemudian menunjukkan bagaimana umur berbeza mengikut kategori dan berubah sepanjang tahun.
 
 *Kuliah 589*
 

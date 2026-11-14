@@ -4,7 +4,9 @@
 
 **Soalan:** Negara mana memenangi paling banyak hadiah, dan dalam kategori apa?
 
-![Langkah 5: Peta choropleth dan negara teratas](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-5-choropleth-map.jpg)
+## Ringkasan kuliah
+
+Kuliah menyusun negara mengikut hadiah yang dimenangi, membincangkan lajur negara yang paling kurang bermasalah, dan melukis hasilnya sebagai carta bar dan peta choropleth. Ia berakhir dengan hadiah setiap negara mengikut kategori dan jumlah berjalan dari masa ke masa.
 
 *Kuliah 587*
 

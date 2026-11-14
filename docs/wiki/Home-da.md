@@ -2,7 +2,7 @@
 
 # Nobelprisanalyse
 
-Dag 79 af Udemys *100 Days of Code*: analysér tidligere vindere af Nobelprisen med Pandas, Plotly, Matplotlib og Seaborn. Denne wiki forklarer hvad hvert trin i lektionen lærer. Hvert trin har et skærmbillede af sin lektion.
+Dag 79 af Udemys *100 Days of Code*: analysér tidligere vindere af Nobelprisen med Pandas, Plotly, Matplotlib og Seaborn. Denne wiki forklarer hvad hvert trin i lektionen lærer. Hvert trin har et kort resumé af sin lektion, skrevet med vores egne ord.
 
 | Side | Hvad du får |
 | --- | --- |

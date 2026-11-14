@@ -4,7 +4,9 @@
 
 **Soalan:** Apa yang kita analisis hari ini, dan apa yang akan kita pelajari?
 
-![Langkah 1: Matlamat hari ini](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/079-Nobel-Prize-Analysis/raw/branch/main/docs/images/step-1-goals.jpg)
+## Ringkasan kuliah
+
+Kuliah memperkenalkan hari ini: kita mengkaji sejarah Hadiah Nobel untuk melihat siapa menang, di mana dan bila. Ia menyenaraikan carta yang akan dibina (peta choropleth, carta bar dan sunburst, garis regresi dan histogram) serta soalan yang akan ditanya kepada data.
 
 *Kuliah 583*
 
